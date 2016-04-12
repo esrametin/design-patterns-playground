@@ -1,4 +1,4 @@
-package com.packt.designpatterns.strategy;
+package designpatterns.strategy;
 
 public class MallardDuck extends Duck {
 

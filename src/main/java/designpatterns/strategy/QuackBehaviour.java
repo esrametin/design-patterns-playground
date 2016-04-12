@@ -1,4 +1,4 @@
-package com.packt.designpatterns.strategy;
+package designpatterns.strategy;
 
 /**
  * Created by esra on 12.04.2016.
